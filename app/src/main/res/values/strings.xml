@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizAssgn</string>
+    <string name="res0">You scored 0 points,keep learning</string>
+    <string name="res1">You scored 1 points,not good yet</string>
+    <string name="res2">You scored 2 points,little better but try harder</string>
+    <string name="res3">You scored 3 points, good effort but You can do better</string>
+    <string name="res4">You scored 4 points,very good. Just one step more.</string>
+    <string name="res5">You scored 5 points,that\'s it. Great job!</string>
+    <string name="play_btn">Play</string>
+    <string name="exit_btn">Exit</string>
+</resources>
